@@ -1,2 +1,2 @@
 # testing
-testing repro
+testing repro telugu skill pro
